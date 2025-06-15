@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ethanbackstrom.com/fa/facategories/</loc>
+    <loc>http://localhost:1313/fa/facategories/</loc>
   </url><url>
-    <loc>https://ethanbackstrom.com/fa/faseries/</loc>
+    <loc>http://localhost:1313/fa/faseries/</loc>
   </url><url>
-    <loc>https://ethanbackstrom.com/fa/fatags/</loc>
+    <loc>http://localhost:1313/fa/fatags/</loc>
   </url><url>
-    <loc>https://ethanbackstrom.com/fa/</loc>
+    <loc>http://localhost:1313/fa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ethanbackstrom.com/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ethanbackstrom.com/fa/"
+                href="http://localhost:1313/fa/"
                 />
   </url>
 </urlset>

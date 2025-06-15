@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on PaperMod</title>
-    <link>https://ethanbackstrom.com/tags/</link>
-    <description>Recent content in Tags on PaperMod</description>
+    <title>Tags on EthanBackstrom</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on EthanBackstrom</description>
     <image>
-      <title>PaperMod</title>
-      <url>https://ethanbackstrom.com/images/papermod-cover.png</url>
-      <link>https://ethanbackstrom.com/images/papermod-cover.png</link>
+      <title>EthanBackstrom</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ethanbackstrom.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
-      <link>https://ethanbackstrom.com/tags/code/</link>
+      <link>http://localhost:1313/tags/code/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ethanbackstrom.com/tags/code/</guid>
+      <guid>http://localhost:1313/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Gist</title>
-      <link>https://ethanbackstrom.com/tags/gist/</link>
+      <link>http://localhost:1313/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ethanbackstrom.com/tags/gist/</guid>
+      <guid>http://localhost:1313/tags/gist/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://ethanbackstrom.com/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ethanbackstrom.com/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>https://ethanbackstrom.com/tags/syntax/</link>
+      <link>http://localhost:1313/tags/syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ethanbackstrom.com/tags/syntax/</guid>
+      <guid>http://localhost:1313/tags/syntax/</guid>
       <description></description>
     </item>
   </channel>
